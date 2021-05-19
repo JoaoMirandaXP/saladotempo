@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+saladotempo/node_modules
+saladotempo/.pnp
+saladotempo/.pnp.js
+
+# testing
+saladotempo/coverage
+
+# production
+saladotempo/build
+
+# misc
+saladotempo/.DS_Store
+saladotempo/.env.local
+saladotempo/.env.development.local
+saladotempo/.env.test.local
+saladotempo/.env.production.local
+
+saladotempo/npm-debug.log*
+saladotempo/yarn-debug.log*
+saladotempo/yarn-error.log*
