@@ -5,13 +5,11 @@ import React from 'react'
 import './_css/index.css'
 //import components
 import Header from './Header'
-import Relogio from './Components/Relogio'
 
 function App(){
   return(
     <>
       <Header title="Juliana"/>
-      <Relogio />
     </>
   );
 }

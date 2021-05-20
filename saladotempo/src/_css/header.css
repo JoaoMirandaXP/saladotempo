@@ -1,5 +1,12 @@
-li{
+ul{
+  width: 80%;
   list-style-type: none;
+}
+li{
   display: inline;
   margin: 50px;
+}
+.relogio{
+  display: inline;
+  color: Black;
 }

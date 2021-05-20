@@ -16,7 +16,7 @@ Preparar uma rotina de estudos que automatize as tarefas e diminua a energia de 
 
 - [X] Deixar um relógio em algum lugar na borda
 
-- [ ] Fazer um template de css para a página ficar entendível(Não bonita)
+- [X] Fazer um template de css para a página ficar entendível(Não bonita)
 
 - [ ] Persistir dados informados pelo usuário
 

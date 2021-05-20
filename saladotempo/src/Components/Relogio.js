@@ -29,10 +29,10 @@ class Relogio extends React.Component{
 
   render(){
     return (
-      <>
+      <div className="relogio">
         <h2>Olá! Eu sou o seu relógio!</h2>
         <h3>E são {this.state.date.toLocaleTimeString()}</h3>
-      </>
+      </div>
     )
   }
 }
