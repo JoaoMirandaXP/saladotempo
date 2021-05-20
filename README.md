@@ -14,7 +14,7 @@ Preparar uma rotina de estudos que automatize as tarefas e diminua a energia de 
 
 - [X] Definir as guias de acesso, Inicio, Projetos, Meta Semanal, Conteúdo, Gráficos
 
-- [ ] Deixar um relógio em algum lugar na borda
+- [X] Deixar um relógio em algum lugar na borda
 
 - [ ] Fazer um template de css para a página ficar entendível(Não bonita)
 
