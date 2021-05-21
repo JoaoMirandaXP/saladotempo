@@ -24,6 +24,8 @@ Preparar uma rotina de estudos que automatize as tarefas e diminua a energia de 
 
 - [ ] Executar algum programa que leia a pasta ou as pastas onde estão localizados os conteúdos de estudo
 
+- [ ] Ao estudar um conteúdo, criar aba para palavras-chave e pesquisar por elas em todos os conteúdos no computador
+
 - [ ] Como executar comandos não-js no computador do usuário
 
 - [ ] Integração com outros aplicativos: pdfmaster, google spritesheet
