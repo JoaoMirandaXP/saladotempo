@@ -34,6 +34,8 @@ Preparar uma rotina de estudos que automatize as tarefas e diminua a energia de 
 
 - [ ] *Agregar* todo o *conteúdo* no computador e ajudar a organizar.
 
+- [ ] Fazer API de gerenciamento do conteúdo(Vídeos, pdfs, links e etc) ao identificar, importar vídeos e reproduzir e buscar nas principais fontes links e etc
+
 - [ ] Calendário interativo
 
 - [ ] Executar leitura e estimativa de tempo médio de leitura de pdf's
