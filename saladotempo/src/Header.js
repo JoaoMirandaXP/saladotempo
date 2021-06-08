@@ -1,6 +1,6 @@
 import React from 'react'
 //Style
-import './_css/header.css'
+import './css/header.css'
 //Components
 import Relogio from './Components/Relogio'
 export default function Header(){

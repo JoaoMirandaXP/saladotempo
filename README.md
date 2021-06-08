@@ -20,6 +20,10 @@ Preparar uma rotina de estudos que automatize as tarefas e diminua a energia de 
 
 - [ ] Persistir dados informados pelo usuário
 
+- [ ] Fazer menu da aplicação
+
+- [ ] Criar rotas para as páginas criadas. (Inicio, projetos, Meta Semanal, Conteúdo, Gráficos, Configurações)
+
 - [ ] Definir metas e prazos
 
 - [ ] Executar algum programa que leia a pasta ou as pastas onde estão localizados os conteúdos de estudo
@@ -28,7 +32,7 @@ Preparar uma rotina de estudos que automatize as tarefas e diminua a energia de 
 
 - [ ] Como executar comandos não-js no computador do usuário
 
-- [ ] Integração com outros aplicativos: pdfmaster, google spritesheet
+- [ ] Integração com outros aplicativos: pdfmaster, google spritesheet, Jupyter Notebook
 
 - [ ] *Organizar meus simulados* e ao *escaneá-los* automaticamente *definir um nome* para eles e para onde possivelmente eles podem ser enviados: Google Classroom, Canvas, WhatsApp, Kuadro
 
@@ -51,6 +55,8 @@ Preparar uma rotina de estudos que automatize as tarefas e diminua a energia de 
 - [ ] Plotar um *gráfico* com o conteúdo estudado em função do tempo.
 
 - [ ] Identificar padrões de estudo e recomendar os melhores horário de aprendizado
+
+- [ ] Fazer um componente para lembrar de organizar qual será o lanche de amanhã
 
 - [ ] Uma vez que o conteúdo esteja agregado *enviar diariamente as estatísticas* do que mais precisa ser estudado.
 

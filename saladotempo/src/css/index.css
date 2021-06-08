@@ -1,0 +1,12 @@
+body{
+background-color: Grey;
+color: White;
+}
+ul{
+  width: 80%;
+  list-style-type: none;
+}
+li{
+  display: inline;
+  margin: 50px;
+}
